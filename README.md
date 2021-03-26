@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hey 👋, I'm Filip
 
-<!--
-**TassiloBalbo/TassiloBalbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/filip-sikora-07ba8117b/">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+
+- 💻 Main project: [Orexin Solutions](https://github.com/Orexin)
+- 📚 Studying IT @ [POJFM](https://pojfm.cz/)
+- 📝 [Portfolio](https://www.fsikora.com/)
+
+
+**🤓 Tech stack**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<!--&hide_border=true -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TassiloBalbo&layout=compact&show_icons=true&theme=cobalt)
+![Filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=TassiloBalbo&show_icons=true&theme=cobalt)
+
+<br />
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=TassiloBalbo.TassiloBalbo" />
+</p>
