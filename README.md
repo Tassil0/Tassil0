@@ -12,11 +12,12 @@
 <a title="Vue.js"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg"></a>
 <a title="Python"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"></a>
 <a title="Go"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/go.svg"></a>
-<a title="C#"><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/c-sharp.svg"></a>
 <br />
 <a title="GNU/Linux"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"></a>
 <a title="Arch Linux ❤️"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/arch_linux.svg"></a>
-
+<a title="Git"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"></a>
+<a title="GitHub"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"></a>
+<a title="npm"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg"></a>
 
 <br />
 <br />
