@@ -6,13 +6,12 @@
 - 📚 Studying IT @ [POJFM](https://pojfm.cz/)
 - 📝 [Portfolio](https://www.fsikora.com/)
 
-## **🤓 Tech stack**  
+### **🤓 Tech stack**  
 
 <a title="JavaScript"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></a>
 <a title="Vue.js"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg"></a>
 <a title="Python"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"></a>
 <a title="Go"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/go.svg"></a>
-<br />
 <a title="GNU/Linux"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"></a>
 <a title="Arch Linux ❤️"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/arch_linux.svg"></a>
 <a title="Git"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"></a>
