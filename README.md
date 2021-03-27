@@ -8,14 +8,14 @@
 
 ## **🤓 Tech stack**  
 
-<img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/javascript.svg">
-<img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/vue.svg">
-<img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/python.svg">
-<img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/go.svg">
-<img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/c-sharp.svg">
+<a title="JavaScript"><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/javascript.svg"></a>
+<a title="Vue.js"><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/vue.svg"></a>
+<a title="Python"><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/python.svg"></a>
+<a title="Go"><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/go.svg"></a>
+<a title="C#"><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/c-sharp.svg"></a>
 <br />
-<img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg">
-<img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/arch_linux.svg">
+<a title="GNU/Linux"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"></a>
+<a title="Arch Linux ❤️"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/arch_linux.svg"></a>
 
 
 <br />
