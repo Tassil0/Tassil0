@@ -1,7 +1,7 @@
 # Hey 👋, I'm Filip
 
 <a href="https://www.linkedin.com/in/filip-sikora-07ba8117b/">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+	<img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br />
@@ -28,17 +28,19 @@
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TassiloBalbo&layout=compact&show_icons=true&theme=cobalt" alt="Filip's GitHub stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TassiloBalbo&show_icons=true&theme=cobalt" alt="Filip's github stats" />
-</a>
+<p align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TassiloBalbo&layout=compact&show_icons=true&theme=cobalt" alt="Filip's GitHub stats" />
+	</a>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=TassiloBalbo&show_icons=true&theme=cobalt" alt="Filip's github stats" />
+	</a>
+</p>
 
 <!--&hide_border=true -->
 
 <br />
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=TassiloBalbo.TassiloBalbo" />
+	<img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=TassiloBalbo.TassiloBalbo" />
 </p>
