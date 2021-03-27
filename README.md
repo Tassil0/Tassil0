@@ -1,4 +1,4 @@
-# Hey 👋, I'm Filip
+# Hey, I'm Filip 👋
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
