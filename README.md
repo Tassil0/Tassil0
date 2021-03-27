@@ -8,7 +8,14 @@
 
 ## **🤓 Tech stack**  
 
+<code><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/javascript.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/vue.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/python.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/go.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/c-sharp.svg"></code>
+<br />
+<code><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/arch_linux.svg"></code>
 
 
 <br />
