@@ -8,14 +8,14 @@
 
 ## **🤓 Tech stack**  
 
-<code><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/javascript.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/vue.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/python.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/go.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/c-sharp.svg"></code>
+<img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/javascript.svg">
+<img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/vue.svg">
+<img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/python.svg">
+<img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/go.svg">
+<img height="25" src="https://raw.githubusercontent.com/get-icon/geticon/master/logos/c-sharp.svg">
 <br />
-<code><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/arch_linux.svg"></code>
+<img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg">
+<img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/arch_linux.svg">
 
 
 <br />
