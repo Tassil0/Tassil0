@@ -26,14 +26,12 @@
 
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TassiloBalbo&layout=compact&show_icons=true&theme=cobalt" alt="Filip's GitHub stats" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TassiloBalbo&layout=compact&show_icons=true&theme=cobalt&hide_border=true" alt="Filip's GitHub stats" />
 	</a>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=TassiloBalbo&show_icons=true&theme=cobalt" alt="Filip's github stats" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=TassiloBalbo&show_icons=true&theme=cobalt&hide_border=true" alt="Filip's github stats" />
 	</a>
 </p>
-
-<!--&hide_border=true -->
 
 <br />
 
