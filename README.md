@@ -2,7 +2,6 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-- 💻 Main project: [Orexin Solutions](https://github.com/Orexin)
 - 📚 Studying IT @ [POJFM](https://pojfm.cz/)
 - 📝 [Portfolio](https://www.fsikora.com/)
 
