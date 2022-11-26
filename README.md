@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-- 📚 Studying Computer science @ [VŠB - FEI](https://www.fei.vsb.cz)
+- 📚 Studying Comp sci @ [VŠB - FEI](https://www.fei.vsb.cz)
 - 📝 [Portfolio](https://www.fsikora.com/)
 
 ### **🤓 Tech stack**  
