@@ -28,13 +28,13 @@
         	<kbd><h3>View Metrics</h3><kbd>
       	</summary>
 		</br>
-    	<a href="https://github.com/anuraghazra/github-readme-stats">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TassiloBalbo&layout=compact&show_icons=true&theme=cobalt&hide_border=true" alt="Filip's GitHub stats" />
+    	<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+			<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TassiloBalbo&theme=tokyonight" alt="Filip's GitHub Stats" />
 		</a>
 		</br>
 		</br>
-		<a href="https://github.com/anuraghazra/github-readme-stats">
-			<img align="center" src="https://github-readme-stats.vercel.app/api?username=TassiloBalbo&show_icons=true&theme=cobalt&hide_border=true" alt="Filip's github stats" />
+		<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+			<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TassiloBalbo&theme=tokyonight" alt="Filip's GitHub Stats" />
 		</a>
    </details>
 </h3>
