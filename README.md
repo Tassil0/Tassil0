@@ -8,17 +8,7 @@
 <h2 align="center">Stack</h2>  
 
 <p align="center">
-	<a title="JavaScript"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></a>
-	<a title="TypeScript"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg"></a>
-	<a title="React.js"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"></a>
-	<a title="Python"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"></a>
-	<a title="Go"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/go.svg"></a>
-	<a title="Rust"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/rust.svg"></a>
-	<a title="GNU/Linux"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"></a>
-	<a title="NixOS"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/nixos.svg"></a>
-	<a title="Git"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"></a>
-	<a title="GitHub"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"></a>
-	<a title="npm"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg"></a>
+	[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,sass,tailwind,docker,linux,python,cpp,go,git,github,npm,pnpm,webstorm,vim)](https://skillicons.dev)
 </p>
 
 
