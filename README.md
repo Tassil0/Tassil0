@@ -29,12 +29,12 @@
       	</summary>
 		</br>
     	<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-			<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TassiloBalbo&theme=tokyonight" alt="Filip's GitHub Stats" />
+			<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tassil0&theme=tokyonight" alt="Filip's GitHub Stats" />
 		</a>
 		</br>
 		</br>
 		<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-			<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TassiloBalbo&theme=tokyonight" alt="Filip's GitHub Stats" />
+			<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tassil0&theme=tokyonight" alt="Filip's GitHub Stats" />
 		</a>
    </details>
 </h3>
