@@ -8,7 +8,7 @@
 <h2 align="center">Stack</h2>  
 
 <p align="center">
-	[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,sass,tailwind,docker,linux,python,cpp,go,git,github,npm,pnpm,webstorm,vim)](https://skillicons.dev)
+	<img align="center" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,sass,tailwind,docker,linux,python,cpp,go,git,github,npm,pnpm,webstorm,vim" />
 </p>
 
 
