@@ -29,7 +29,7 @@
       	</summary>
 		</br>
     	<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-			<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TassiloBalbo&theme=tokyonight" alt="Filip's GitHub Stats" />
+			<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TassiloBalbo&theme=tokyonight" alt="Filip's GitHub Stats" />
 		</a>
 		</br>
 		</br>
